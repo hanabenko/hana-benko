@@ -1,6 +1,6 @@
 ---
 title: Zelda From an Existentialist Perspective
-date: 2025-04-19 +/-TTTT
+date: 2025-04-19 13:20:11 +/-TTTT
 categories: [Writing, Video Games]
 tags: [zelda, essays, video games] 
 description: An essay on how Breath of the Wild is really an existentialist work. 
