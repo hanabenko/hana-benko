@@ -3,6 +3,7 @@ title: Zelda From an Existentialist Perspective
 date: 2025-04-19 +/-TTTT
 categories: [Writing, Video Games]
 tags: [zelda, essays, video games] 
+description: An essay on how Breath of the Wild is really an existentialist work. 
 ---
 
 This is an essay I wrote for my AP Literature class in my senior year. I was swamped with college essays and final exams, but I still spent so much time pouring my heart into this essay. 
@@ -12,7 +13,7 @@ This is a 25-minute read. Enjoy!
 
 
 
-# In the Driver’s Seat
+<h1 style="font-size: 2.2rem; font-weight: bold;">In the Driver’s Seat</h1>
 
 Existentialism places the individual at the center of their own world, rejecting philosophies of “human nature” and emphasizing the authentic and particular essence of human existence. Jean-Paul Sartre, arguably the most influential existentialist philosopher, unintentionally popularized existentialist principles through a lecture at Club Maintenant in Paris, set barely a month after Victory over Japan Day. He tackles themes of subjectivity, individual choice, alienation, and anguish, all of which explicitly apply to the worlds crafted by Franz Kafka in The Metamorphosis and Eiji Aonuma and his Nintendo team in the Legend of Zelda video game franchise. Kafka’s novel follows the life of a young traveling salesman, Gregor Samsa, after his overnight transformation into a human-sized cockroach, and Aonuma’s Legend of Zelda: Breath of the Wild game allows players to control Link as he explores the vast kingdom of Hyrule and tries to save his princess. The worlds crafted by Kafka and Aonuma explore Sartre’s idea of an absurd existence and prove that individual choice prevails against indifferent universes and never-ending calamities.
 
