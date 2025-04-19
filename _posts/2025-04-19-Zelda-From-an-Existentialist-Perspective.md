@@ -6,7 +6,7 @@ tags: [zelda, essays, video games]
 description: An essay on how Breath of the Wild is really an existentialist work. 
 ---
 
-This is an essay I wrote for my AP Literature class in my senior year. I was swamped with college essays and final exams, but I still spent so much time pouring my heart into this essay. 
+This is an essay I wrote for my AP Literature class in my senior year. I was swamped with college applications and final exams, but I still spent so much time pouring my heart into this work. 
 If I recall correctly, the prompt was simply to compare Jean-Paul Sartre's _Existentialism Is a Humanism_, a famous existentialist work (I chose Franz Kafka's _Metamorphosis_), with a work of fiction of your choice (I chose Nintendo's _The Legend of Zelda, Breath of the Wild_).
 
 This is a 25-minute read. Enjoy!
