@@ -1,7 +1,7 @@
 ---
 title: My Experience with Planners
 date: 2025-05-13 10:59:26 +/-TTTT
-categories: [Writing]
+categories: [Writing, Technology]
 tags: [planning, apps, AI] 
 description: A reflection on how my journey from paper planners to digital tools shaped the way I organize, express, and find balance between structure and creativity.
 ---
