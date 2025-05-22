@@ -14,4 +14,4 @@ Some other data columns include Application portal links, where you should immed
 
 If you are in the college search phase, it may be worth it to move or hide the columns about applications and financial aid, and place in the front the general information about each college, like location, rankings, and more. 
 
-I hope you find this as a useful resource in your college journey! Feel free to make a copy and make it your own! [Here is a link to the spreadsheet in Google Sheets.] (https://docs.google.com/spreadsheets/d/1Uah2vBTxpFi7fYmLUVF6O2B4qEbPj0T0UIB8V-kRxM0/edit?usp=sharing)
+I hope you find this as a useful resource in your college journey! Feel free to make a copy and make it your own! [Here is a link to the spreadsheet in Google Sheets.](https://docs.google.com/spreadsheets/d/1Uah2vBTxpFi7fYmLUVF6O2B4qEbPj0T0UIB8V-kRxM0/edit?usp=sharing)
